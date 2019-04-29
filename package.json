@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/dmarchante/puppy-api/issues"
   },
-  "homepage": "https://github.com/dmarchante/puppy-api#readme"
+  "homepage": "https://github.com/dmarchante/puppy-api#readme",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4"
+  }
 }
